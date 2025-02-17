@@ -52,6 +52,10 @@ ICT373Ass1Qn2/
    ```sh
    java -cp bin ICT373Ass1Qn2
    ```
+5.  **Run the Program**:
+   ```
+   Right click ICT373Ass1Qn2.java, click on 'Run File'
+   ```
 
 ## 📌 Example Usage
 ### **Menu Options**:
